@@ -5,6 +5,10 @@ body {
   padding: 50px;
 }
 
+h1 {
+  color: #4CAF50;  /* Changes heading color to green */
+}
+
 button {
   background-color: #00796b;
   color: white;
